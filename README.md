@@ -2,6 +2,8 @@
 
 # ❤😍❤Bem vindo! Venha se conectar 🌎 comigo.
 
+<br>
+
 ---
 Estudante de Análise e Desenvolimento na faculdade Descomplica, tem como objetivo de estagiar na área de tecnologia para
 adquirir experiência no mercado de trabalho. Gosta de desenvolver aplicações com as seguintes tecnologias Front End:
